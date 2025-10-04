@@ -8,20 +8,17 @@ Este é meu espaço para compartilhar projetos, praticar habilidades e crescer c
 ---
 
 💬 **Pergunte-me sobre:** HTML, CSS, JavaScript e desenvolvimento de sites  
-📫 **Contato:** [seu-email-aqui@email.com]  
+📫 **Contato:** ng490691@gmail.com  
 
 ---
 
 ## 🌐 Conecte-se comigo:
 <p align="left">
-  <a href="https://wa.me/SEU_NUMERO" target="_blank">
+  <a href="https://wa.me/5511933105088" target="_blank">
     <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:seu-email-aqui@email.com" target="_blank">
+  <a href="mailto:ng490691@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
