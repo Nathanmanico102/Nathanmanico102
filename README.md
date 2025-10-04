@@ -33,11 +33,5 @@ Este é meu espaço para compartilhar projetos, praticar habilidades e crescer c
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
+--- ## 📊 Estatísticas do GitHub 
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexCarc&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCarc&layout=compact&langs_count=8&theme=tokyonight" /> </div>
