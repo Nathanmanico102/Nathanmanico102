@@ -39,6 +39,6 @@ Este é meu espaço para compartilhar projetos, praticar habilidades e crescer c
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathanmanico102&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanmanico102&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
